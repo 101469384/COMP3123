@@ -13,18 +13,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "101469384"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;101469384&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/101469384/COMP3123.git",
-    "accountId": "eb9b3f5c-9ebf-42a6-9173-39f44dc55f40"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/101469384/COMP3123.git&quot;,
+    &quot;accountId&quot;: &quot;eb9b3f5c-9ebf-42a6-9173-39f44dc55f40&quot;
   }
-}]]></component>
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 5
 }</component>
@@ -40,7 +40,7 @@
     "Node.js.index.js.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
-    "git-widget-placeholder": "Rebasing main",
+    "RunOnceActivity.git.unshallow": "true",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "/Users/sofiiabeliak/comp3123-labs/lab3/week03_exercise",
     "node.js.detected.package.eslint": "true",
@@ -82,6 +82,7 @@
       <workItem from="1758286597095" duration="1723000" />
       <workItem from="1758289045752" duration="76000" />
       <workItem from="1758289399530" duration="2088000" />
+      <workItem from="1758291494272" duration="896000" />
     </task>
     <servers />
   </component>
